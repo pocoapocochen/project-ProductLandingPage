@@ -1,5 +1,5 @@
 # project-ProductLandingPage
-* Project topic from: freeCodeCamp - Responsive Web Design Course
+* Project topic from: [freeCodeCamp - Responsive Web Design Projects - Build a Product Landing Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/)
 * [Live](https://pocoapocochen.github.io/project-ProductLandingPage/) version
 
 ## User Story
